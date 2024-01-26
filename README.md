@@ -7,10 +7,11 @@
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>(www.linkedin.com/in/gunasekaran-ravi/)
+<br>  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(www.linkedin.com/in/gunasekaran-ravi/)
+<br>
 - 😄 Pronouns: Techie
+<br>
 - ⚡ Fun fact:I'M cotent creator.
-
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
